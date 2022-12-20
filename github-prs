@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Required parameters:
+# @raycast.schemaVersion 1
+# @raycast.title Open Pull Requests
+# @raycast.mode silent
+#
+# Optional parameters:
+# @raycast.packageName GitHub
+# @raycast.icon images/github-logo-black.png
+# @raycast.iconDark images/github-logo-white.png
+
+open https://github.com/pulls/
