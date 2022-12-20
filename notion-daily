@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Required parameters:
+# @raycast.schemaVersion 1
+# @raycast.title Open Daily Meeting Notes
+# @raycast.mode silent
+#
+# Optional parameters:
+# @raycast.packageName Notion
+# @raycast.icon images/notion-logo.png
+# @raycast.icon images/notion-logo.png
+
+open https://www.notion.so/shinetools/Daily-Meeting-Notes-aea0444194e94c498c5282726ac456a6/
